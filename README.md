@@ -47,6 +47,13 @@ A desktop knob and its ecosystem: USB-HID media control, now-playing, and a stat
 • <a href="https://github.com/btkramer/pc-dash-app">pc-dash-app</a>: .NET 8 Windows companion
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+<a href="https://github.com/btkramer/glyphstage"><img src="images/glyphstage.png" alt="Glyphstage"></a>
+<h4><a href="https://github.com/btkramer/glyphstage">Glyphstage</a></h4>
+Classic text adventures with every room drawn as a live 3D ASCII scene. Plays the original Zork I on its own Z-machine interpreter, with an auto-map and narrator.
+</td>
+</tr>
 </table>
 
 ### What ties them together
