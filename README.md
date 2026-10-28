@@ -1,11 +1,15 @@
 ## Hi, I'm Brian 👋
 
-I build things for my home, mostly ESP32 hardware with touchscreens and web dashboards that
+I'm a PLC/SCADA engineer with 25 years in industrial automation. These days I'm also building an
+**AI engineering assistant** that helps produce engineering deliverables
+(*private, demo available on request*).
+
+Outside work, I build things for my home, mostly ESP32 hardware with touchscreens and web dashboards that
 make everyday equipment safer, smarter and nicer to use. Projects usually start with a
 real problem around the house and end with firmware, a UI, Home Assistant integration and,
 where it matters, a test suite.
 
-### Featured projects
+### Personal projects
 
 <table>
 <tr>
